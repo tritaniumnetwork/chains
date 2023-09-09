@@ -3,7 +3,8 @@
   "chain": "TRITANIUM",
   "rpc": [
     "https://nodetestnet-station-one.tritanium.network/",
-    "https://nodetestnet-station-two.tritanium.network/"
+    "https://nodetestnet-station-two.tritanium.network/",
+    "https://nodereal-rpc.tritandex.com/"
   ],
   "faucets": ["https://faucet.tritanium.network"],
   "nativeCurrency": {
